@@ -1,0 +1,11 @@
+C:\Users\romualdo\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.exe
+C:\Users\romualdo\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.pdb
+C:\Users\romualdo\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.xml
+C:\Users\romualdo\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\romualdo\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\Hello_World.Form1.resources
+C:\Users\romualdo\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\Hello_World.Resources.resources
+C:\Users\romualdo\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\romualdo\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\romualdo\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\Hello World.exe
+C:\Users\romualdo\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\Hello World.xml
+C:\Users\romualdo\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\Hello World.pdb
