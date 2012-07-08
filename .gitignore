@@ -1,3 +1,5 @@
 *.exe
 *.com
 *.dll
+Hello World/bin
+Hello World/obj
