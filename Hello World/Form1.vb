@@ -2,6 +2,9 @@
 
 Public Class Form1
 
+    Dim t1 As Thread
+    Dim t2 As Thread
+
     Delegate Sub updateCounterDelegate(ByVal newValue As Integer)
 
     Dim msg As String = "Hello World"
@@ -29,7 +32,19 @@ Public Class Form1
     End Sub
 
     Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
-        Dim t1 As New Thread(AddressOf thread1)
+        t1 = New Thread(AddressOf thread1)
         t1.Start()
+    End Sub
+
+    Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button3.Click
+        If stpd Then
+            stpd = False
+            t2 = New Thread(AddressOf startSyncServer) 'Starts a new thread
+            t2.Start()
+        Else
+            stpd = True
+            t2.Abort()
+        End If
+
     End Sub
 End Class
